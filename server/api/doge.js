@@ -8,4 +8,3 @@ export default defineEventHandler((event) => {
   return data;
 });
 
-import AppHeader from '@/components/AppHeader.vue'; 
