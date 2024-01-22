@@ -1,6 +1,6 @@
 <script setup>
 // Fetch data from the dogs API endpoint
-const { data } = await useFetch("/api/doge");
+const { data } = await useFetch("/api/dawgs");
 // clean up the data
 const { _value: dataValues } = data;
 const { message: breeds } = dataValues;
