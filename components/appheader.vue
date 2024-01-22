@@ -1,10 +1,10 @@
 <template>
   <header>
     <div>
-      <NuxtLink to="/">Logo: DOGES</NuxtLink>
+      <NuxtLink to="/">Logo: User Name</NuxtLink>
     </div>
     <nav>
-      <NuxtLink to="doge">Doge</NuxtLink>
+      <NuxtLink to="dawgs">Dawgs</NuxtLink>
 
     </nav>
   </header>
